@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/ai-usage-statement.md" />
+    <File Path="docs/design-document.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Eneco.B2B.CompanyInsights.Api/Eneco.B2B.CompanyInsights.Api.csproj" />
+    <Project Path="src/Eneco.B2B.CompanyInsights.Tests/Eneco.B2B.CompanyInsights.Tests.csproj" />
+  </Folder>
+</Solution>

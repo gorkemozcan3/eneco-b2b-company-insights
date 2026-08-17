@@ -1,0 +1,29 @@
+﻿bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+appsettings.Development.json
+
+# Test results and coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Build/publish output
+[Bb]uild/
+[Pp]ublish/
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
